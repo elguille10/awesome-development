@@ -1,2 +1,5 @@
 # awesome-development
-A curated lisft with different stuff for development
+A curated list with different stuff for development
+
+
+Inspired in awesome-python and awesome-java
