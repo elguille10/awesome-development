@@ -4,10 +4,15 @@ A curated list with different stuff for a great development, it cover the differ
 Inspired by many others [awesome repositories](https://github.com/bayandin/awesome-awesomeness)
 
 ## Development Kits (Compiler, API, JVM, Runtimes, Garbage Collectors)
+
 *JDK - Java Development Kit include Compiler, Docs, JRE, and more
+
 *JRE - Java Runtime Excecution Include Java API's, JVM, Garbage Collector
+
 *OpenJDK - Open Source JDK
+
 *Android SDK - Mobil
+
 *RoboVM - Mobil for iOS
 
 ##JVM Languages and Engines
