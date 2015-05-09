@@ -5,7 +5,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 ## Development Kits (Compiler, API, JVM, Runtimes, Garbage Collectors)
 
-*[JDK]() - Java Development Kit include Compiler, Docs, JRE, and more
+*JDK- Java Development Kit include Compiler, Docs, JRE, and more
 
 *JRE - Java Runtime Excecution Include Java API's, JVM, Garbage Collector
 
