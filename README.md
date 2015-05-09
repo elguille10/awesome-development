@@ -1,11 +1,11 @@
 ### Awesome Development
-A curated list with different stuff for a great development, it cover the different cycles for develop software (analysis, programming, analytics, testing, DevOps, etc) it try to keep a well state of the art with current technologies, libraries, frameworks and tools that are and have been widely used in the Open Source industry and those that I guess will be used according to my personal concept.
+A curated list with different stuff for a great development, it cover the different cycles for develop software (analysis, programming, analytics, testing, DevOps, etc) it try to keep a well state of the art with current technologies, libraries, frameworks and tools that are and have been widely used in the Open Source industry especially for enterprise applications and those that I guess will be used according to my personal concept.
 
 Inspired by many others [awesome repositories](https://github.com/bayandin/awesome-awesomeness)
 
 ## Development Kits (Compiler, API, JVM, Runtimes, Garbage Collectors)
 
-*JDK - Java Development Kit include Compiler, Docs, JRE, and more
+*[JDK] - Java Development Kit include Compiler, Docs, JRE, and more
 
 *JRE - Java Runtime Excecution Include Java API's, JVM, Garbage Collector
 
