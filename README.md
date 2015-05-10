@@ -58,7 +58,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *[Facebook JCommon](https://github.com/facebook/jcommon) - Facebook common utilities
 
-*Griffon - Groovy MVC desktop framework
+*Griffon - Groovy MVC Desktop Framework
 
 *Cache - (Jcache, ehcache, memcache)
 
@@ -84,13 +84,13 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *TinkerPop ( Blueprints, Pipes, Gremlin, Rexster ) - Graph DataBase Standar
 
-##Data Access and DSL API's, Libraries, Frameworks And Tools
+##Data Access, ORM's and DSL API's, Libraries, Frameworks And Tools
 
 *Standard API's - JDBC, JTA, JDO, JPA
 
-*Pool Connection - Apache DBCP, BoneCP, c3p0, hikaricp
+*Pool Connection - Apache DBCP, BoneCP, c3p0, Hikaricp
 
-*JDBC FrameWorks - mybatis, Spring data JDBC, JOOQ
+*JDBC FrameWorks - MyBatis, Spring Data JDBC, JOOQ
 
 *JPA and JDO Providers - Hibernate, EclipseLink, DataNucleus, OpenJPA, Cayanne, Spring Data JPA
 
@@ -130,7 +130,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *[Buck](http://facebook.github.io/buck/) - Facebook high performance build tool
 
-*Repositories - maven central, Nexus, Artifactory, Archiva
+*Repositories - Mven Central, Nexus, Artifactory, Archiva
 
 *Control Version - Git, Subversion, Tortoise, CVS, Upsource
 
@@ -142,7 +142,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *JUnit
 
-*Jmeter
+*JMeter
 
 *JMockito
 
@@ -198,7 +198,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 ##Code Generator
 
-*Google auto
+*Google Auto
 
 ##HTTP and JavaEE Servers
 
@@ -206,7 +206,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *WildFly
 
-*tommEE
+*TommEE
 
 *Geronimo
 
@@ -214,7 +214,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Weblogic
 
-*Webshape
+*WebShape
 
 ##Web Development Languages, Standars, API's, Frameworks and RIA's
 
@@ -234,7 +234,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *JNDI
 
-*Struts - MVC backend web framework
+*Apache Struts - MVC backend web framework
 
 *Spring MVC - MVC backend web framework
 
@@ -246,7 +246,13 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Groovy on Grails - Groovy MVC backend web framework inspired in Ruby on Rails and Django
 
-*Another web frameworks (Vaadin, Wicket, OpenXava, Stripes, AppFuse, Hamlets, Tapestry, Spark(sinatra) )
+*Play - Scala Backend MVC Web Framework
+
+*Lift - Scala Backend Expressive Web Framework inspired in Ruby on Rails, Django, Wicket and Grails
+
+*Scalatra - Scala Backend MVC Web Framework which attempts to be as minimal as possible, inspired in Sinatra.
+
+*Another Web Frameworks (Vaadin, Wicket, OpenXava, Stripes, AppFuse, Hamlets, Tapestry, Spark(sinatra) )
 
 *Spring Web Flow
 
@@ -344,7 +350,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Apache Accumulo
 
-*cloudera
+*Cloudera
 
 *ZooKeeper
 
@@ -359,13 +365,19 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 ##Containers and clusters management 
 
 *Docker (Swarm, Sistribution) - 
-Kubernetes
-Apache Mesos
-Apache Aurora
-Arquillian
-MaestroNG
+
+*Kubernetes
+
+*Apache Mesos
+
+*Apache Aurora
+
+*Arquillian
+
+*MaestroNG
 
 ##Virtual Development Enviroment, Configuration management, Continuous delivery, DevOps
 
 *Vagrant
+
 *Chef
