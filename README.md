@@ -1,9 +1,28 @@
 ### Awesome Development
-A curated list with different stuff for a great development, it cover the different cycles for develop software (analysis, programming, analytics, testing, DevOps, etc) it try to keep a well state of the art with current technologies, libraries, frameworks and tools that are and have been widely used in the Open Source industry especially for enterprise applications and those that I guess will be used according to my personal concept.
+A curated list with different stuff for a great development, it cover the different cycles for develop software (analysis, programming, analytics, testing, DevOps, etc) it try to keep a well state of the art with current JVM technologies, libraries, frameworks and tools that are and have been widely used in the Open Source industry especially for enterprise applications and those that I guess will be used according to my personal concept.
 
 Inspired by many others [awesome repositories](https://github.com/bayandin/awesome-awesomeness)
 
-## Development Kits (Compiler, API, JVM, Runtimes, Garbage Collectors)
+##Different OSS (Open Source Software) Projects for important companies and Organizations
+
+*[Apache](http://www.apache.org/#projects-list)
+
+*[Eclipse](https://projects.eclipse.org/search/projects)
+
+*[Twitter Open Source](http://twitter.github.io/)
+
+*[Twitter Engineering](https://engineering.twitter.com/opensource/projects)
+
+*[Netflix OSS](http://netflix.github.io/#repo)
+
+*[Facebook](https://code.facebook.com/projects/)
+
+*[Pivotal OSS](http://pivotal.io/oss)
+
+*[Google](https://developers.google.com/open-source/projects)
+
+
+##Development Kits (Compiler, API, JVM, Runtimes, Garbage Collectors)
 
 *JDK- Java Development Kit include Compiler, Docs, JRE, and more
 
@@ -37,6 +56,10 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Google Guava - Commons utilities with different stuff like cache
 
+*[Facebook JCommon](https://github.com/facebook/jcommon) - Facebook common utilities
+
+*Griffon - Groovy MVC desktop framework
+
 *Cache - (Jcache, ehcache, memcache)
 
 ##Data Storage Relational, No-Relational, Key-Value, Document, BigTable, Embedded and Data Tools
@@ -59,7 +82,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *OrientDB
 
-*TinkerPop ( Blueprints, Pipes, Gremlin, Rexster )
+*TinkerPop ( Blueprints, Pipes, Gremlin, Rexster ) - Graph DataBase Standar
 
 ##Data Access and DSL API's, Libraries, Frameworks And Tools
 
@@ -75,7 +98,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Slick - Scala Data Access Framework
 
-*queryDSL - DSL Java implementation
+*QueryDSL - DSL Java implementation
 
 ##NoSQL Data Access Libraries and Frameworks
 
@@ -94,6 +117,26 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 *Spring for Hadoop
 
 *CouchDB - Spring Data CouchBase, Ektorp
+
+##Build Tools, Repositories Management, Control Version And Continuos Integration
+
+*Maven
+
+*Gradle
+
+*Bazel
+
+*Reactor
+
+*[Buck](http://facebook.github.io/buck/) - Facebook high performance build tool
+
+*Repositories - maven central, Nexus, Artifactory, Archiva
+
+*Control Version - Git, Subversion, Tortoise, CVS, Upsource
+
+*Jenkins
+
+*TeamCity
 
 ##Testing
 
@@ -153,24 +196,6 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Dagger
 
-##Build Tools, Repositories Management, Control Version And Continuos Integration
-
-*Maven
-
-*Gradle
-
-*Bazel
-
-*Reactor
-
-*Repositories - maven central, Nexus, Artifactory, Archiva
-
-*Control Version - Git, Subversion, Tortoise, CVS, Upsource
-
-*Jenkins
-
-*TeamCity
-
 ##Code Generator
 
 *Google auto
@@ -209,19 +234,19 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *JNDI
 
-*PrimeFaces - JSF Provider
+*Struts - MVC backend web framework
 
-*Struts
+*Spring MVC - MVC backend web framework
 
-*Spring MVC
+*PrimeFaces - RIA and JSF Provider
 
-*GWT
+*GWT - RIA
 
-*ZK
+*ZK - RIA
 
-*Groovy on Grails
+*Groovy on Grails - Groovy MVC backend web framework inspired in Ruby on Rails and Django
 
-*Another web frameworks (vaadin, wicket, openxava, stripes, AppFuse, hamlets, tapestry, Spark(sinatra) )
+*Another web frameworks (Vaadin, Wicket, OpenXava, Stripes, AppFuse, Hamlets, Tapestry, Spark(sinatra) )
 
 *Spring Web Flow
 
@@ -229,3 +254,118 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Jersey - Json
 
+##Distributed RPC, Web Services, API Rest, Soap and Corba
+
+*JAX-RPC - Java XML Based RCP
+
+*RMI - Java Remote Method Invocation, Object Oriented RCP
+
+*JAX-WS - Java XML Web Services
+
+*JAX-RS - Java API for RESTful Web Services
+
+*Apache CXF - Java Web Services Framework
+
+*RESTLET - Java RESTful Web API Framework
+
+*Swagger - Polyglot RESTful API Framework
+
+##RAD (Rapid Application Development), AOP (Aspect Oriented), SOA (Service Oriented), microservices
+
+*AspectJ
+
+*Spring AOP
+
+*Spring Roo
+
+##OSGI
+
+*Apache Felix
+
+*Spring Tool Suit
+
+##ESB (Enterprise Service Bus), Enterprise Integration, BPM (Business Process Management)
+
+*Spring integration
+
+*Apache Camel
+
+*JBoss Enterprise Service Bus
+
+*JBoss Fuse
+
+*Talend
+
+##BPM (Business Process Model)
+
+*JBPM
+
+##IAAS, SAAS, PAAS, Cloud Computing
+
+*Openshift
+
+*CloudFoundry
+
+*Google App Engine
+
+*CloudStack
+
+*OpenStack
+
+*Heroku
+
+*Amazon EC2
+
+*Jelastic
+
+*Spring Cloud
+
+##Distributed, Concurrent, Real Time and Assynchronous Web Development (Non-blocking I/O (NIO),  Event Driven, Actor Driven, Event Processor, Model Driven, Domain Driven)
+
+*Apache Storm
+
+*Orbit
+
+*Atmosphere
+
+*Vert.x
+
+*Nodyn
+
+*Akka - Scala Framework and Runtime for concurrent and distributed applications on the JVM.
+
+*Reactive Streams (ReactX, RxJava, RxScala, RxGroovy) - 
+
+##Distributed Computing, MapReduce, Machine Learning, Analist Engine
+
+*Hadoop (Hive, Sqoop, Pig)
+
+*Apache Spark
+
+*Apache Accumulo
+
+*cloudera
+
+*ZooKeeper
+
+##Search Server
+
+*ElasticSearch
+
+*Apache Lucene
+
+*Apache Solr
+
+##Containers and clusters management 
+
+*Docker (Swarm, Sistribution) - 
+Kubernetes
+Apache Mesos
+Apache Aurora
+Arquillian
+MaestroNG
+
+##Virtual Development Enviroment, Configuration management, Continuous delivery, DevOps
+
+*Vagrant
+*Chef
