@@ -75,7 +75,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Cassandra devCenter Tool
 
-##Graph database and Graph computing
+##Graph Database and Graph Computing
 
 *Neo4j
 
@@ -85,7 +85,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *TinkerPop ( Blueprints, Pipes, Gremlin, Rexster ) - Graph DataBase Standar
 
-##Data Access, ORM's and DSL API's, Libraries, Frameworks And Tools
+##Data Access Standars, ORM's and DSL API's Libraries, Frameworks And Tools
 
 *Standard API's - JDBC, JTA, JDO, JPA
 
@@ -131,7 +131,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *[Buck](http://facebook.github.io/buck/) - Facebook high performance build tool
 
-*Repositories - Mven Central, Nexus, Artifactory, Archiva
+*Repositories - Maven Central, Nexus, Artifactory, Archiva
 
 *Control Version - Git, Subversion, Tortoise, CVS, Upsource
 
@@ -177,8 +177,6 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *JacpFX + DataFx
 
-*MVVMFX - mvvm pattern in JavaFX
-
 *GroovyFX
 
 *Dukescript - HTML5 and JavaScript CrossPlatform mobile, web and desktop
@@ -219,21 +217,9 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 ##Web Development Languages, Standars, API's, Frameworks and RIA's
 
-*Servlet
+*Servlet, JSP, 
 
-*JSP
-
-*JSF
-
-*MVC 1.0
-
-*JMS
-
-*JMX
-
-*JAXB
-
-*JNDI
+*Standars: JSF, MVC 1.0, JMS, JMX, JAXB, JNDI
 
 *Apache Struts - MVC backend web framework
 
@@ -247,7 +233,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *Groovy on Grails - Groovy MVC backend web framework inspired in Ruby on Rails and Django
 
-*Play - Scala Backend MVC Web Framework
+*Play - Scala Backend MVC Web Framework inspired in Ruby on Rails and Django
 
 *Lift - Scala Backend Expressive Web Framework inspired in Ruby on Rails, Django, Wicket and Grails
 
