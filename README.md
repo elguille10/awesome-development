@@ -21,7 +21,7 @@ Inspired by many others [awesome repositories](https://github.com/bayandin/aweso
 
 *[Google](https://developers.google.com/open-source/projects)
 
-*[linkedin](http://data.linkedin.com/opensource)
+*[Linkedin](http://data.linkedin.com/opensource)
 
 ##Development Kits (Compiler, API, JVM, Runtimes, Garbage Collectors)
 
